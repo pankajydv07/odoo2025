@@ -9,6 +9,9 @@ Whether you're offering help or seeking it, every exchange builds trust and comm
 
 DEMO Video:https://drive.google.com/file/d/1ZMJxYjxYjjFzmE9jhrMcXIvn_1tA-n-r/view?usp=sharing
 
+you can view it here too
+https://screenrec.com/share/j2eBKHxTR7
+
 ## ✨ Features
 
 ### 🔐 Authentication & User Management
